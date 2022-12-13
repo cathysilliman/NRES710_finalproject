@@ -196,6 +196,7 @@ summary(model.pop2)
   #GLMM with a gamma distribution, random effect: tray, fixed effect: lat long
 
 
+## testing using visual studio code and github and r studio and hoping that talk to eachother
 
 
 
